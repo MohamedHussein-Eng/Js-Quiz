@@ -1,0 +1,61 @@
+/* .country-select {
+    width: 300px;
+    font-family: Arial, sans-serif;
+    position: relative;
+  }
+  
+  .select-box {
+    border: 2px solid #1d4ed8;
+    padding: 12px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .dropdown {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 5px;
+    background: white;
+    max-height: 300px;
+    overflow: hidden;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .dropdown input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #eee;
+    outline: none;
+  }
+  
+  .list {
+    max-height: 240px;
+    overflow-y: auto;
+  }
+  
+  .country-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .country-item:hover {
+    background: #f1f5f9;
+  }
+   */
+  .country-item img {
+    width: 20px;
+   
+
+  }
+   
+   
